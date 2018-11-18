@@ -1,0 +1,54 @@
+body
+{
+	background-color: #769DA2;
+
+}
+
+h1 {
+	color: #000000;
+	font-size: 30px;	
+}
+
+h2 {
+	color: #FEDC97;
+	font-size: 30px;	
+}
+
+p {
+	color: #FEDC97;
+}
+
+p1 {
+	color: #FFFFFF;
+}
+
+a {
+	color: #FEDC97;
+}
+
+.jumbotron
+{
+background-color:#28666E;
+}
+
+#pagebody
+{
+	background-color: #769DA2;
+}
+
+.thumbnail
+{
+	background-color: #769DA2;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+.navbar {
+	color: #FEDC97;
+	background-color:transparent;
+}
+
+
