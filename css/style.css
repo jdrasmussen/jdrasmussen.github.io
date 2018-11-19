@@ -5,13 +5,20 @@ body
 }
 
 h1 {
-	color: #000000;
+	color: #ffffff;
 	font-size: 30px;	
 }
 
 h2 {
 	color: #FEDC97;
 	font-size: 30px;	
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 30px;	
+	font-family: 'Corbel';
+	
 }
 
 p {
@@ -24,6 +31,16 @@ p1 {
 
 a {
 	color: #FEDC97;
+}
+
+li {
+	list-style:none;
+	
+}
+
+.resume_points{
+	color: #ffffff;
+	font-family: 'Enriqueta';
 }
 
 .jumbotron
@@ -50,6 +67,14 @@ a {
 .navbar {
 	color: #FEDC97;
 	background-color:#28666E;
+}
+
+figcaption {
+	padding-top: 5px;
+}
+
+#resume_listing {
+	padding-left: 20px;
 }
 
 
