@@ -4,43 +4,40 @@ body
 
 }
 
-h1 {
-	color: #ffffff;
-	font-size: 30px;	
-}
-
 h2 {
 	color: #FEDC97;
-	font-size: 30px;	
+	font-size: 36px;
+	font-family: 'Corbel';	
+	font-variant: small-caps;
 }
 
-h3 {
+h1, h3 {
 	color: #ffffff;
-	font-size: 30px;	
+	font-size: 32px;	
 	font-family: 'Corbel';
+	font-variant: small-caps;
 	
 }
 
 p {
 	color: #FEDC97;
-}
-
-p1 {
-	color: #FFFFFF;
+	font-family: 'Corbel';
 }
 
 a {
-	color: #ffffff;
+	color: #FEDC97;
 }
 
 li {
 	list-style:none;
+	font-family: 'Enriqueta';
 	
 }
 
-.resume_points{
+p1, .resume_points{
 	color: #ffffff;
 	font-family: 'Enriqueta';
+	font-size: 16px;
 }
 
 .jumbotron
@@ -76,5 +73,25 @@ figcaption {
 #resume_listing {
 	padding-left: 20px;
 }
+
+#linkedin_link, #email_link {
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+.button {
+	font-family: 'Corbel';
+}
+
+#voterid_graphic {
+	align-items: center;
+}
+
+.portfolio-image {
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+
 
 
