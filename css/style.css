@@ -76,21 +76,32 @@ figcaption {
 
 #linkedin_link, #email_link {
 	color: #FFFFFF;
-	font-size: 16px;
+	
 }
+
+#resume_link {
+	padding-top: 15px;
+	padding-bottom: 30px;
+	padding-left: 5px;
+}
+
+p2 {
+	font-family: 'Enriqueta';
+	font-size: 16px;
+	text-align: center;
+}
+
 
 .button {
 	font-family: 'Corbel';
 }
 
-#voterid_graphic {
-	align-items: center;
-}
 
 .portfolio-image {
 	padding-top: 15px;
 	padding-bottom: 30px;
 }
+
 
 
 
